@@ -28,7 +28,7 @@
 
 <img width="526" height="75" alt="image" src="https://github.com/user-attachments/assets/a6b50b66-92c9-40c7-bada-e2419e132628" />
 
-Calcula la precisión y genera una matriz de confusión.
+## Calcula la precisión y genera una matriz de confusión.
 <img width="531" height="88" alt="image" src="https://github.com/user-attachments/assets/b1b6ea44-ef3f-47f9-addb-1f264f1226fe" />
 
 ### Matriz de conducion 
