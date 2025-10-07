@@ -31,7 +31,7 @@
 ## Calcula la precisión y genera una matriz de confusión.
 <img width="531" height="88" alt="image" src="https://github.com/user-attachments/assets/b1b6ea44-ef3f-47f9-addb-1f264f1226fe" />
 
-### Matriz de conducion 
+### Matriz de confucion 
 <img width="540" height="433" alt="image" src="https://github.com/user-attachments/assets/64fab757-e636-44c5-a8e0-6198f8caf455" />
 
 
