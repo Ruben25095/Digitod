@@ -22,6 +22,14 @@
 
 
 
+## Evalúa el modelo con el conjunto de pruebas.
+
+<img width="526" height="75" alt="image" src="https://github.com/user-attachments/assets/9f6111ff-0929-4efe-8a4b-4496790487f6" />
+
+
+
+
+
 
 
 
